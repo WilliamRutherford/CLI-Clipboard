@@ -1,4 +1,4 @@
-# CLI-Clipboard
+# CLIpboard
 A simple application to send snippets of text and files over their network
 
 ## Commands
